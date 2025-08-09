@@ -4,7 +4,7 @@
 [View Full HTML Diagram](proxy_diagram.html) | [Live Version](https://devopriyanshu.github.io/MultiThreadedProxyServer/proxy_diagram.html)
 
 ## Key Architecture
-![Simplified Diagram](/docs/UML%20(1).jpg)
+![Simplified Diagram](/docs/UML%20(1).JPG)
 
 ## Flow Overview
 1. Server initializes...
